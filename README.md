@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQGpyUUJC18dMQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732678902754?e=1738195200&v=beta&t=84ijKlcPaTxnM3-J2SsMk8R69C3CbbvZleAzcmTNPn0">
 
 <h1 align="center">Welcome 👋, I'm MD MASUDUR RAHAMAN</h1>
-<h3 align="center">A passionatPassionate Web Developer | Clean Code | Web Solutions | Beautiful Designe frontend developer from India</h3>
+<h3 align="center">Full Stack Web Developer | Clean Code | SEO Expert | Digital Marketer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masudmbg&label=Profile%20views&color=0e75b6&style=flat" alt="masudmbg" /> </p>
 
